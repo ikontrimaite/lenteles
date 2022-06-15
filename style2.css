@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap');
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    font-family: Kanit;
+}
+.orange{
+background: #fea500;
+color: white;
+}
+.blue{
+    background: #4f4fff;
+    color: white;
+}
+.green{
+    background: #14c33c;
+    color: white;
+}
+table{
+    width: 60%;
+}
